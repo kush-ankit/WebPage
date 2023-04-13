@@ -1,0 +1,1 @@
+document.getElementsByClassName("greet")[0].innerHTML = "WebSite me aapka swagat hai";
